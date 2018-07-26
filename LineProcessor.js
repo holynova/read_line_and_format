@@ -16,7 +16,7 @@ const logJson = (data) => {
 // 关键参数 lineHandler 函数
 // 输入从文件中读到的行数据
 // 输出需要存到文件中的数字
-class Splitter {
+class LineProcessor {
   constructor(dataFileName, lineHandler, outputDir = './output', outputExt = '.js', ) {
     this.dataFileName = dataFileName
     this.outputDir = outputDir
@@ -115,5 +115,5 @@ class Splitter {
   }
 }
 
-module.exports = Splitter
+module.exports = LineProcessor
 
