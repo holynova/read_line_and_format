@@ -1,383 +1,477 @@
-101001	记录	History
-101002	资产	Assets
-101003	简体中文	简体中文
-101004	安全等级：	Security Level:
-101005	高	High
-101006	总资产	Total Assets:
-101007	现金钱包：	Available:
-101008	抵押物钱包：	Collateral:
-101009	{4}笔交易正在确认中...	Confirming {4} trades...
-101010	负债	Debt
-101011	未还本金:	Outstanding Principle:
-101012	当前在贷订单：	Current Loans:
-101013	最近订单到期日：	Recent due date:
-101014	{7}笔	{7}
-101015	{2}笔订单已逾期...	{2} loans overdue...
-101016	订单管理	Loans
-101017	已逾期{16}天	{16} days overdue
-101019	距离清偿还剩{5}天	Liquidation starts in {5} days
-101020	查看更多	View More
-101021	清偿中...	Liquidating...
-101022	立即还款	Repay Now
-101023	借入价格：	Loan Price:
-101024	当前价格：	Current Price:
-101025	待还金额	Amount Due
-101026	最后还款日	Last Repayment
-101027	借贷	Loans
-101028	抵押	Collateral
-101029	借出	Lend
-101030	添加资产	Add Assets
-101031	期限：	Term:
-101032	利率：	Daily Interest Rate:
-101033	到期应还：	Amount due:
-101034	{30}日	{30} days
-101035	万{2.5}	{0.025%}
-101036	去借款	Get a Loan
-101037	信用分：	Credit Score:
-101038	中	Medium
-101039	低	Low
-101040	我已阅读并同意《质押借款协议》	I have read and agree to the Loan Agreement
-102001	借款记录	Loan History
-102002	还款记录	Repayment History
-102003	交易记录	Transaction History
-102004	账号安全	Account Security
-102005	身份认证	Identity Verification
-102006	退出	Log out
-103001	风险提示	Risk Warning
-103002	您的资产当前有被清偿的风险，请及时还款或补充抵押物，以提高您的资产安全等级	Your assets might be liquidated. Please repay your loans or add collateral to increase security level.
-103003	去还款	Repay Now
-103004	补充抵押物	Add Collateral
-104001	清偿提示	Liquidation Prompt
-104002	您的资产已于7月10日被清偿	Your assets have been liquidated in {June 10}
-104003	查看详情	View Details
-105001	借贷前请先进行身份认证，立即身份认证	Please verify your identity before applying for a loan. Verify now
-200001	抵押物钱包资产	Collateral Assets
-200002	补充抵押物，可以减少市场波动带来的清偿风险。	Adding collateral can reduce the risk of liquidation caused by market volatility.
-200003	现金钱包资产	Available Assets
-200004	交易流水	Transaction Records
-200005	总资产共	Total Assets
-200006	现金钱包	Available
-200007	抵押物钱包	Collateral
-200008	搜索	Search
-200009	隐藏资产为0的币种	Hide currencies with 0 assets
-200010	币种	Currency
-200011	可赎回	Redeemable
-200012	抵押中	Pledging Collateral
-200013	操作	Actions
-200014	补充	Add
-200015	赎回	Redeem
-200016	抵押物正在补充，请等待区块确认后进行赎回。您可在"交易记录"中查看进度。	The collateral is being added. Please redeem it after it is confirmed by the blocks. You can check the progress in Transaction History.
-200017	BTC只能同时发起一笔赎回，请等待区块确认。	Only one BTC amount can be redeemed at a time, please wait for the blocks to confirm.
-200018	需补充：	Need to add:
-201001	闪兑	Convert
-201002	USDT只能同时提现一笔，请等待区块确认，您可在“交易记录”中查看进度。	Only one USDT amount can be withdrawn at a time. Please wait for the block to confirm. You can check the progress in Transaction History.
-201003	BTC只能同时提现一笔，请等待区块确认，您可在“交易记录”中查看进度。	Only one BTC amount can be withdrawn at a time. Please wait for the block to confirm. You can check the progress in Transaction History.
-201004	充值中	Topping up
-201005	提现中	Withdrawing
-203001	正在生成中，请稍后重试…	Creating wallet address, please try again later...
-203001	您正在进行ETH充值操作	ETH top up action in progress
-203002	ETH钱包地址	ETH wallet address
-203003	复制	Copy
-203004	确定	Confirm
-204001	您正在进行ETH提现操作	ETH withdrawal in progress
-204002	提现金额	Amount
-204003	钱包地址	Wallet Address
-204004	全部提现	Withdraw All
-204005	提现	Withdraw
-204006	最多提现	Maximum
-204007	谷歌验证	Google Authenticator
-204009	忘记密码	Forgot password
-204010	如何使用	How to use it
-204011	资金密码	Fund Password
-204012	更改绑定	Change Binding
-204013	短信验证	SMS Verification
-204014	邮箱验证	Email Verification
-204015	发送验证码	Send
-205016	*您输入的密码有误	*Wrong password
-206001	资金密码连续5次输入错误， 为了您的安全，请重置资金密码。	You have entered a wrong fund password for 5 consecutive times. Please reset your fund password for security reasons.
-206002	重置资金密码	Reset Fund Password
-207001	提现可能需要30-120分钟 请耐心等待	Withdrawal may take 30-120 minutes. Please wait patiently.
-208001	很抱歉，由于系统原因提现失败。 请发送邮件到message@libracredit.io, 我们将尽快修复。	Sorry, withdrawal failed due to system reasons. Please send an email to message@libracredit.io and we will fix it as soon as possible.
-209001	您正在进行补充抵押物操作	Adding collateral
-209002	钱包种类	Wallet Type
-209003	补充金额	Add Amount
-209004	现金钱包	Available
-209005	补充抵押物	Add Collateral
-209006	外部钱包	External Wallet
-210001	链上转账可能需要30-120分钟，请耐心等待	Transfer using blockchain may take 30-120 minutes, please be patient.
-211001	正在生成中，请稍后重试…	Try again later, already creating...
-212001	恭喜你补充抵押物成功	Congratulations, collateral  successfully added!
-213001	很抱歉，由于系统原因补充抵押物失败。 请发送邮件到message@libracredit.io, 我们将尽快修复。	Sorry, failed to add collateral due to system reasons. Please send an email to message@libracredit.io and we will fix it as soon as possible.
-214001	您正在进行ETH抵押物赎回操作	ETH collateral redemption in progress
-214002	赎回金额	Amount
-214003	全部赎回	Redeem All
-214004	赎回	Redeem
-215001	赎回可能需要2-3分钟 请耐心等待	Redemption may take 2-3 minutes. Please be patient.
-216001	很抱歉，由于系统原因赎回失败。 请发送邮件到message@libracredit.io, 我们将尽快修复。	Sorry, redemption failed due to system reasons. Please send an email to message@libracredit.io and we will fix it as soon as possible.
-217001	您正在进行闪兑操作	Conversion in progress
-217002	兑换币种	Currency
-217003	兑换金额	Amount
-217004	全部兑出	Convert All
-217005	当前余额	Current Balance:
-217006	可兑换	Available
-218001	兑换币种	Currency
-218002	实际换入	Amount Converted
-218003	实际支付	Amount Paid
-219001	闪兑可能需要2-3分钟 请耐心等待	Conversion may take 2-3 minutes. Please wait patiently.
-220001	很抱歉，由于系统原因闪兑失败。 请发送邮件到message@libracredit.io, 我们将尽快修复。	Sorry, conversion failed due to system reasons. Please send an email to message@libracredit.io and we will fix it as soon as possible.
-300001	资产	Assets
-300002	交易记录	Transaction History
-300003	等待确认的交易	Transactions waiting for confirmation
-300004	时间	Time
-300005	币种	Currency
-300006	数量	Amount
-300007	类型	Type
-300008	详情	Details
-300009	充值	Top up
-300010	提现	Withdraw
-300011	抵押	Collateral
-300013	系统审核中，请耐心等待	Please wait patiently during system review
-300014	充值记录	Top up
-300015	提现记录	Withdrawal
-300016	抵押物补充记录	Collateral Addition
-300017	抵押物赎回记录	Collateral Redemption
-300018	清偿记录	Liquidation
-300019	闪兑记录	Conversion
-300020	所有状态	All types
-300021	发生时间：	Time period:
-300022	成功	Success
-300023	失败	Failure
-300024	时间	Time
-300025	币种	Currency
-300026	数量	Amount
-300027	状态	Status
-300028	详情	Details
-300029	上一页	Previous
-300030	第{3}页	Page {3}
-300031	下一页	Next 
-303001	所有类型	All Types
-303002	类型	Type
-303002	外部钱包转入	From external wallet
-303002	现金钱包转入	From available assets
-304001	赎回到现金钱包	Redeem to available assets
-305001	波动清偿	Liquidation (fluctuation)
-305002	结算清偿	Liquidation (pay off)
-306001	成功	Success
-306002	失败	Failure
-306003	全部币种	All Currency
-306004	兑出	Out
-306005	换入	In
-400001	开始	Start
-400002	结束	End
-400003	所有类型	All Types
-400004	还款	Repayment
-400005	借款	Loan
-400006	时间	Time
-400007	类型	Type
-400008	金额	Amount
-400009	查看详情	View Details
-401001	详情	Details
-401002	时间	Time
-401003	期限	Term
-401004	日利率	Daily Interest Rate
-401005	到期应还	Amount Due
-401006	状态	Status
-401007	流水号	No.
-401008	借款合同	Loan Agreement
-401009	点击查看	Click to view
-401010	未还清	Not Repaid
-401011	万{2}	{0.02%}
-401012	日	days
-403001	本金	Principal
-403002	罚息	Late Fee
-403003	利息	Interest
-403004	服务费	Service Fee
-403005	钱包生成费	Wallet Creation Fee
-404001	无记录	No history
-600001	选择订单	Choose Loan
-600002	已逾期{16}天	{16} days overdue
-600003	待还金额	Amount due:
-600004	距离清偿还剩{5}天	Liquidation starts in {5} days
-600005	立即还款	Repay Now
-600006	安全等级为低，为了避免发生波动清偿，请立即还 {1024} USD	Security level low, in order to avoid liquidation fluctuations, please repay {1024} USD immediately.
-601001	清偿中...	Liquidating...
-601002	到期日	Due date
-602001	应还	Due
-602002	数据仅供参考。由于数字货币市价波动剧烈，为了减少用户还款金额受市价波动的影响，用户借款时的本金将用USD计价，利息、服务费等费用的结算都将以USD计价。	Data is for reference only. Due to the volatile market price of digital currencies will the principal of the user's loan, the settlement of interest, service fees and other expenses be calculated in USD in order to reduce the fluctuation of the user's repayment amount.
-602003	还款币种	Currency
-602004	还款方式	Repay
-602005	还款金额	Amount
-602006	部分还款	Partial
-602007	全部还清	Repay All
-602008	钱包余额：	Wallet:
-602009	提交	Submit
-603001	当前用LBA还款免利息	Currently no interest if you choose to repay in LBA
-605001	展开明细	Show details
-606001	收起明细	Hide details
-607001	还款金额	Amount due
-608001	返回（已过期）	Back (Expired)
-609001	你需要等待2-3分钟来完成还款， 请不要关闭本页面	2-3 min needed for repayment to be completed, do not close this page.
-610001	还款成功	Repayment successful
-610002	返回首页	Back to home
-610003	继续还款	Repay more
-610004	您可以赎回借款时的抵押物，	You can redeem the collateral of the loan.
-610005	前往赎回	Redeem?
-611001	还款失败	Repayment failed
-611002	很抱歉，由于系统原因还款失败，请重试。 若屡次失败，请发邮件至message@libracredit.io， 我们将尽快修复	Sorry, the payment failed due to system reasons. Please try again. If it fails repeatedly, please send an email to message@libracredit.io. We will fix it as soon as possible.
-611003	还款	Repay
-612001	*余额不足，请充值	*Insufficient balance, please top up
-613001	*单笔还款下限10 USD	*Min repayment: 10 USD
-614001	*超过最大还款额	*Max repayment exceeded
-615001	当前页面已过期，请刷新页面重新输入	The current page has expired, please refresh the page and try again
-615002	刷新	Refresh
-501001	可用抵押物	Available collateral
-506001	借款协议	Loan Agreement
-506002	关闭	Close
-507001	请确认您的借款信息	Please confirm your loan information
-507002	借出	Lend
-507003	到期日	Due Date
-507004	到期应还	Amount Due
-511001	借款成功	Loan Successful
-512001	借款失败	Loan Failed
-512002	很抱歉，由于系统原因借款失败，请重试。 若屡次失败，请发邮件至message@libracredit.io， 我们将尽快修复	Sorry, the loan failed due to system reasons. Please try again. If it fails repeatedly, please send an email to message@libracredit.io. We will fix it as soon as possible.
-513001	你正在申请一笔借款，请等待该笔借款完成	You are applying for a loan, please wait for the loan to be completed.
-514001	抵押物不足，请充值	Insufficient collateral, please top up
-515001	*平台累计借款上限等值 12000 USD/下限等值 50 USD	* Platform loan limit must be between 50 and 12000 USD
-517001	补充信息（选填一项）	Additional Information (Choose One)
-517002	请任选一项	Please choose one
-517003	BTC钱包地址	BTC wallet address
-517004	BTC钱包公钥	BTC wallet public key
-517005	请输入BTC钱包地址	Please enter the BTC wallet address
-517006	请输入至少一笔转出记录的BTC钱包地址	Please enter a BTC wallet address of at least one transaction record
-518001	*钱包地址不可用	*Wallet address unusable
-520001	*公钥不正确	*Incorrect public key
-700001	登录	Log in
-700002	注册	Sign up
-700003	欢迎注册	Welcome
-700004	手机注册	Mobile
-700005	邮箱注册	Email
-700006	请输入你的手机号码	Please enter your mobile number
-700007	请输入短信验证码	Please enter SMS verification code
-700008	发送验证码	Send
-700009	请确认你的登录密码	Please confirm your login password
-700010	我已阅读并同意《用户协议》	I have read and agree to the User Agreement
-700011	下一步	Next
-700012	请输入你的登录密码	Please enter your login password
-701001	请输入你的邮箱	Please enter your email address
-701002	请输入邮箱验证码	Please enter the email verification code
-702001	*请输入有效的手机号码/该号码已被注册	*Please enter a valid mobile number/ This number has already been registered
-702002	{59}s后重发	Resend after {59}s
-702003	*验证码错误	*Incorrect verification code
-702004	弱	Weak
-702005	中	Medium
-702006	强	Strong
-702007	*密码为8-20位/密码不能为纯数字	*Password must be 8-20 digits/Password can't be solely numbers
-702008	*两次密码不一致	*Passwords do not match
-703001	登录	Log in
-703002	请输入你的邮箱/手机号	Please enter your email/mobile number
-703003	请输入登录密码	Please enter your login password
-703004	注册	Sign up
-703005	忘记密码？	Forgot password?
-703006	登录	Log in
-704001	*请输入有效的邮箱地址/手机号	*Please enter a valid email address / mobile number
-704002	*账户或密码输入有误，请确认后重新输入	*The account or password is incorrect. Please check and re-enter.
-705001	请将滑块移至最右端	Move the slider to the far right
-706001	输入验证码	Enter verification code
-706002	请输入 {158****7777 }收到的验证码	Please enter the verification code sent to {158****7777}
-706003	请输入短信验证码	Please enter the SMS verification code
-706004	{59}s后重发	Resend after {59}s
-706005	确定	Confirm
-707001	输入验证码	Enter verification code
-707002	请输入 谷歌验证器 中的验证码	Please enter the verification code of Google Authenticator. 
-707003	请输入谷歌验证码	Please enter the Google verification code
-708001	重置登录密码	Reset login password
-708002	请输入绑定的邮箱或手机号	Please enter the bound email or mobile number
-710001	输入验证码	Enter verification code
-710002	请输入 {158****7777} 收到的验证码	Please enter the verification code sent to {158****7777}
-710003	若该手机号无法使用，请联系客服	Please contact customer service, if the mobile number cannot be used.
-711001	验证成功，请设置新密码	The verification is successful, please set a new password.
-712001	重置登录密码成功	Login password successfully reset
-800001	绑定您的以太坊地址	Bind your Ethereum address
-800002	该以太坊地址将用于您的身份验证，与您的账号绑定，一旦提交成功将不能修改，请谨慎填写。	The Ethereum address will be used for your identity verification and will be bound to your account. Once submitted, you will not be able to modify it. Please fill it out carefully.
-800003	请输入您的以太坊地址	Please enter your Ethereum address
-800004	实名认证	Identity Information
-800005	国籍	Nationality
-800006	姓	Last Name
-800007	名	First Name
-800008	身份证号	ID Number
-800009	身份证上传	Upload ID Card
-800010	请选择	Please Select
-800011	请填写你的姓氏	Please fill in your last name
-800012	请填写你的名字	Please fill in your first name
-800013	请填写你的身份证号	Please fill in your ID number
-800014	支持扩展名：JPG（JPEG），BMP，PNG，GIF，TIFF格式，大小不超过5MB	Supported format: JPG (JPEG), BMP, PNG, GIF, TIFF. Size must not exceed 5MB
-800015	身份证国徽面	Front of ID card
-800016	点击或将文件拖拽到这里上传	Click or drag files here to upload
-800017	身份证人像面	Back of ID card
-800018	点击或将文件拖拽到这里上传	Click or drag files here to upload
-800019	注意：请不要填写交易所钱包地址！	Notice: Please DO NOT enter your platform wallet address!
-800020	身份认证	Identity Verification
-801001	以太坊地址绑定成功	Ethereum address binding successfully
-801002	您的以太坊地址	Your Ethereum address
-801003	实名认证审核中	Verifying your identity information
-801004	中国	China
-801005	陈	Chen
-801006	东	Dong
-802001	实名认证审核通过	Passed identity information verification
-803001	实名认证审核失败，请重新提交	Identity information verification failed, please submit again
-900001	账号安全	Account Security
-900002	强烈建议开启2项双重身份验证	It is highly recommended to turn on two-factor authentication for identity verification
-900003	密码管理	Password Management
-900004	登录密码	Login Password
-900005	资金密码	Fund Password
-900006	用于提币时进行安全验证	Used for security verification when withdrawing currency
-900007	修改	Modify
-900008	设置	Settings
-900009	双重身份验证	Two-Factor Authentication
-900010	邮箱	Email
-900011	手机	Mobile
-900012	谷歌验证码	Google verification code
-900013	用于提币、找回密码、修改安全设置进行安全验证	Used for security verification when withdrawing coins, recovering passwords and modifying security settings 
-900014	用于登录、提币、找回密码、修改安全设置进行安全验证	Used for security verification when logging in, withdrawing coins, recovering passwords and modifying security settings
-900015	绑定	Bind
-900016	关闭验证	Turn off verification
-901001	修改登录密码	Modify Login Password
-901002	原始登录密码	Original Login Password
-901003	新登录密码	New Login Password
-901004	确认新登录密码	Confirm New Login Password
-901005	确认	Confirm
-902001	设置资金密码	Set Fund Password
-902002	发送验证码	Send
-902003	资金密码确认	Confirm Fund Password 
-902004	短信验证码	SMS Verification Code
-902005	请设置6位数字的资金密码	Please set a 6-digit fund password.
- 
-904001	修改资金密码	Modify Fund Password
-904002	原资金密码	Original Fund Password
-904003	新资金密码	New Fund Password
-904004	确认新资金密码	Confirm New Fund Password
-905001	设置新密码	Set New Password
-905002	确认新密码	Confirm New Password
- 
-907001	绑定邮箱	Bind Email
-907002	邮箱	Email
-907003	邮箱验证码	Email Verification Code
-908001	更换绑定邮箱	Modify Bound Email
-909001	关闭验证	Turn off Verification
-909002	手机号	Mobile Number
-909003	手机验证吗	Mobile Verification Code
- 
-911001	修改绑定手机	Modify Bound Mobile Number
-911002	中国	CN
-912001	绑定谷歌验证	Bind Google Authenticator
-912002	谷歌验证器是一款动态口令工具，工作原理类是短信动态验证。绑定后每30s生成一个动态验证码，验证码可用于登录、提现、修改安全设置等操作的安全等级。	Google Authenticator is a dynamic password tool. The working principle is dynamic verification via SMS. After binding, a dynamic verification code is generated every 30s. The verification code can be used for the security level of operations such as security settings.
-912003	1 下载谷歌验证器APP	1 Download Google Authenticator APP
-912004	iOS用户登录App Store搜索“Authenticator”下载。 安卓用户登录应用商店或使用手机浏览器搜索“谷歌验证器”下载。	iOS users log in to the App Store and search for "Authenticator". Android users log in to the Google Play Store or use the mobile browser to search for "Google Authenticator".
-912005	2 在谷歌验证器中添加秘钥并备份	2 Add a private key and back up in Google Authenticator
-912006	打开谷歌验证器，扫描下方二维码或手动输入下述秘钥添加验证令牌。 秘钥用于手机更换或遗失时找回谷歌验证器，绑定前请务必将下述秘钥备份保存。	Open Google Authenticator, scan the QR code below or manually enter the following key to add a verification token. The key is used to retrieve the Google Authenticator when the phone is replaced or lost. Be sure to backup the following secure key before binding.
-912007	秘钥	Private key
-912008	绑定	Bind
-913001	更换绑定谷歌验证	Change Bound Google Authenticator
-1000001	抱歉，为了大家更好的使用体验，服务器正在维护升级，给大家带来的不便敬请谅解！	We are upgrading our server for better user experience. Sorry for any inconvenience.
-1000002	服务器更新时间：	Server upgrade time:
-1000003	至	to
+页面编号	字段编号	完整编号	中文	译文
+101	001	101001	记录	History
+101	002	101002	资产	Assets
+101	003	101003	简体中文	简体中文
+101	004	101004	资产安全等级：	Safety Level:
+101	005	101005	高	High
+101	006	101006	总资产：	Account Balance:
+101	007	101007	现金钱包：	Available:
+101	008	101008	抵押物钱包：	Collateral:
+101	009	101009	{4}笔交易正在确认中...	Confirming {4} trade(s)...
+101	010	101010	负债	Loans
+101	011	101011	未还本金：	Outstanding Principal:
+101	012	101012	当前在贷订单：	Current loans:
+101	013	101013	最近订单到期日：	Scheduled Due Date:
+101	014	101014	{7}笔	{7}
+101	015	101015	{2}笔订单已逾期...	{2} loan(s) overdue...
+101	016	101016	订单管理	Manage Loans
+101	017	101017	已逾期{16}天	{16} day(s) overdue
+101	019	101019	距离清偿还剩{5}天	Liquidation starts in {5} day(s)
+101	020	101020	查看更多	View more
+101	021	101021	清偿中...	Liquidating...
+101	022	101022	立即还款	Repay Now
+101	023	101023	借入价格：	Loan Price:
+101	024	101024	当前价格：	Current Price:
+101	025	101025	待还金额	Amount Due
+101	026	101026	最后还款日	Last Repayment
+101	027	101027	借贷	Get a Loan
+101	028	101028	抵押	Collateral
+101	029	101029	借出	Loan
+101	030	101030	添加资产	Add Assets
+101	031	101031	期限：	Term:
+101	032	101032	日利率：	Daily Interest Rate:
+101	033	101033	到期应还：	Amount due:
+101	034	101034	{30}日	{30} days
+101	035	101035	万{2.5}	{0.025%}
+101	036	101036	去借款	Get a Loan
+101	037	101037	信用分：	Credit Score: 
+101	038	101038	中	Medium
+101	039	101039	低	Low
+101	040	101040	我已阅读并同意	I have read and agree to the 
+101	041	101041	您的资产安全等级=抵押物价值（USDT）/在贷本金价值（USDT） 当您的安全等级下降时，请及时还款或补充抵押物，否则我们将对您的抵押物进行清偿	Your asset security level = Collateral value (USDT) / Loan principle value (USDT)  Please repay on time or add more collateral when your security level is low, otherwise your collateral will be liquidated.
+101	042	101042	《质押借款协议》	Loan Agreement
+102	001	102001	借款记录	Loan History
+102	002	102002	还款记录	Repayment History
+102	003	102003	交易记录	Transaction History
+102	004	102004	账号安全	Account Security
+102	005	102005	身份认证	Identity Verification
+102	006	102006	退出	Log out
+103	001	103001	风险提示	Risk Warning
+103	002	103002	您的资产当前有被清偿的风险，请及时还款或补充抵押物，以提高您的资产安全等级	Your assets might be liquidated. Please repay your loans or add collateral to increase your asset security level.
+103	003	103003	去还款	Repay Now
+103	004	103004	补充抵押物	Add Collateral
+104	001	104001	清偿提示	Liquidation Notice
+104	002	104002	您的资产已于{7月10}日被清偿	Your assets have been liquidated on {July 10}
+104	003	104003	查看详情	View Details
+105	001	105001	借贷前请先进行身份认证，	Please verify your identity before applying for a loan. 
+105	002	105002	立即身份认证	Verify now
+200	001	200001	抵押物钱包资产	Collateral Assets
+200	002	200002	补充抵押物，可以减少市场波动带来的清偿风险。	Adding collateral can reduce the risk of liquidation caused by market volatility.
+200	003	200003	现金钱包资产	Available Assets
+200	004	200004	交易记录	Transaction History
+200	005	200005	总资产共	Total Assets
+200	006	200006	现金钱包	Available
+200	007	200007	抵押物钱包	Collateral
+200	008	200008	搜索	Search
+200	009	200009	隐藏资产为0的币种	Hide currencies with 0 assets
+200	010	200010	币种	Currency
+200	011	200011	总额	Total Amount
+200	0122	200122	抵押中	Pledging Collateral
+200	013	200013	操作	Actions
+200	014	200014	补充	Add
+200	015	200015	赎回	Redeem
+200	016	200016	抵押物正在补充，请等待区块确认后进行赎回。您可在"交易记录"中查看进度。	The collateral is being added. Please redeem it after it is confirmed by the blocks. You can check the progress in Transaction History.
+200	017	200017	{BTC}只能同时发起一笔赎回，请等待区块确认。	Only one {BTC} amount can be redeemed at a time, please wait for the blocks to confirm.
+200	018	200018	需补充：	Need to add:
+201	001	201001	闪兑	Exchange
+201	002	201002	{USDT}只能同时提现一笔，请等待区块确认，您可在“交易记录”中查看进度。	Only one {USDT} amount can be withdrawn at a time. Please wait for the block to confirm. You can check the progress in Transaction History.
+201	003	201003	{BTC}只能同时提现一笔，请等待区块确认，您可在“交易记录”中查看进度。	Only one {BTC} amount can be withdrawn at a time. Please wait for the block to confirm. You can check the progress in Transaction History.
+201	004	201004	充值中	Depositing
+201	005	201005	提现中	Withdrawing
+201	006	201006	可赎回	Balance
+201	007	201007	提现	Withdraw
+201	008	201008	充值	Deposit
+202	001	202001	正在生成中，请稍后重试…	Creating wallet address, please try again later...
+203	001	203001	您正在进行{ETH}充值操作	{ETH} Deposit 
+203	002	203002	{ETH}钱包地址	{ETH} wallet address
+203	003	203003	复制	Copy
+203	004	203004	确定	Confirm
+204	001	204001	您正在进行{ETH}提现操作	{ETH} Withdrawal
+204	002	204002	提现金额	Amount
+204	003	204003	钱包地址	Wallet Address
+204	004	204004	全部提现	Withdraw All
+204	005	204005	提现	Withdraw
+204	006	204006	最多提现	Maximum
+204	007	204007	谷歌验证	Google Authenticator
+204	009	204009	忘记密码	Forgot password
+204	0100	204100	如何使用	How to use it
+204	011	204011	资金密码	Fund Password
+204	012	204012	更改绑定	Change Binding
+204	013	204013	短信验证	SMS Verification
+204	014	204014	邮箱验证	Email Verification
+204	015	204015	发送验证码	Send
+204	016	204016	请先设置交易密码	Please set the Transaction Password first.
+204	017	204017	请输入BTC地址	Please enter BTC address
+205	001	205001	*您输入的密码有误	*Wrong password
+205	002	205002	{50}s后重新获取	Send again in {50}s 
+205	003	205003	重新发送	Resend
+205	004	205004	金额不能为空	Amount required
+205	005	205005	钱包地址不能为空	Wallet address required
+205	006	205006	资金密码不能为空	Fund password required
+205	007	205007	验证码不能为空	Verification code required
+205	008	205008	提现金额不能为0	Withdrawal amount can't be 0
+206	001	206001	资金密码连续5次输入错误， 为了您的安全，请重置资金密码。	You have entered a wrong fund password for 5 consecutive times. Please reset your fund password for security reasons.
+206	002	206002	重置资金密码	Reset Fund Password
+207	001	207001	提现可能需要30-120分钟 请耐心等待	Withdrawal may take 30-120 minutes. Please wait patiently.
+208	001	208001	很抱歉，由于{系统原因}提现失败。 请发送邮件到message@libracredit.io, 我们将尽快修复。	Sorry, withdrawal failed due to {system reasons}. Please send an email to message@libracredit.io and we will fix it as soon as possible.
+208	002	208002	系统原因	system reasons
+208	003	208003	金额超过有效值	invalid amount
+208	004	208004	金额为0	amount equaling 0
+208	005	208005	地址输入错误	address input error
+208	006	208006	密码错误	password error
+208	007	208007	验证码错误	verification code error
+209	001	209001	您正在进行补充抵押物操作	Adding collateral
+209	002	209002	钱包种类	Wallet Type
+209	003	209003	补充金额	Add Amount
+209	004	209004	现金钱包	Available
+209	005	209005	补充抵押物	Add Collateral
+209	006	209006	外部钱包	External Wallet
+209	007	209007	补充金额需大于0	Additional amount needs to be greater than 0
+209	008	209008	请输入抵押金额	Please enter the collateral amount
+209	009	209009	现金账户余额不足	Insufficient balance
+210	001	210001	链上转账可能需要30-120分钟，请耐心等待	Transfer using blockchain may take 30-120 minutes, please be patient.
+211	001	211001	正在生成中，请稍后重试…	Creating wallet address, please try again later...
+212	001	212001	恭喜你补充抵押物成功	Congratulations, collateral  successfully added!
+213	001	213001	很抱歉，由于{系统原因}补充抵押物失败。 请发送邮件到message@libracredit.io, 我们将尽快修复。	Sorry, failed to add collateral due to {system reasons}. Please send an email to message@libracredit.io and we will fix it as soon as possible.
+213	002	213002	现金账户余额不足	insufficient assets available
+214	001	214001	您正在进行{ETH}抵押物赎回操作	{ETH} collateral redemption
+214	002	214002	赎回金额	Amount
+214	003	214003	全部赎回	Redeem All
+214	004	214004	赎回	Redeem
+214	005	214005	赎回金额需大于0	Redemption amount must be greater than 0
+214	006	214006	请输入赎回金额	Please enter the redemption amount
+214	007	214007	抵押物订单超过最大金额	Collateral order exceeds maximum amount
+215	001	215001	赎回可能需要2-3分钟 请耐心等待	Redemption may take 2-3 minutes. Please be patient.
+216	001	216001	很抱歉，由于{系统原因}赎回失败。 请发送邮件到message@libracredit.io, 我们将尽快修复。	Sorry, redemption failed due to {system reasons}. Please send an email to message@libracredit.io and we will fix it as soon as possible.
+216	002	216002	抵押物订单超过最大金额	collateral order exceeding max amount
+217	001	217001	您正在进行闪兑操作	Exchange
+217	002	217002	兑换币种	Currency
+217	003	217003	兑换金额	Amount
+217	004	217004	全部兑出	All
+217	005	217005	当前余额	Current Balance:
+217	006	217006	可兑换	Available
+217	007	217007	兑换金额需大于0	Exchange amount must be greater than 0
+217	008	217008	请输入兑换金额	Please enter exchange amount
+217	009	217009	闪兑订单操作异常	Unexpected exchange error
+218	001	218001	兑换币种	Currency
+218	002	218002	实际换入	Amount Exchanged
+218	003	218003	实际支付	Amount Paid
+218	004	218004	返回	Back
+219	001	219001	闪兑可能需要2-3分钟 请耐心等待	Your transaction may take 2-3 minutes. Please wait patiently.
+220	001	220001	很抱歉，由于{系统原因}闪兑失败。 请发送邮件到message@libracredit.io, 我们将尽快修复。	Sorry, exchange failed due to {system reasons}. Please send an email to message@libracredit.io and we will fix it as soon as possible.
+220	002	220002	闪兑订单操作异常	an unexpected error
+300	001	300001	资产	Assets
+300	002	300002	交易记录	Transaction History
+300	003	300003	等待确认的交易	Transactions waiting for confirmation
+300	004	300004	时间	Time
+300	005	300005	币种	Currency
+300	006	300006	数量	Amount
+300	007	300007	类型	Type
+300	008	300008	详情	Details
+300	009	300009	充值	Deposit
+300	010	300010	提现	Withdraw
+300	011	300011	抵押	Collateral
+300	013	300013	系统审核中，请耐心等待	Please wait patiently during system review
+300	014	300014	充值记录	Deposit
+300	015	300015	提现记录	Withdrawal
+300	016	300016	抵押物补充记录	Collateral Addition
+300	017	300017	抵押物赎回记录	Collateral Redemption
+300	018	300018	清偿记录	Liquidation
+300	019	300019	闪兑记录	Exchange
+300	020	300020	所有状态	All Types
+300	021	300021	发生时间：	Time period:
+300	022	300022	成功	Success
+300	023	300023	失败	Failure
+300	024	300024	时间	Time
+300	025	300025	币种	Currency
+300	026	300026	数量	Amount
+300	027	300027	状态	Status
+300	028	300028	详情	Details
+300	029	300029	上一页	Previous
+300	030	300030	第{3}页	Page {3}
+300	031	300031	下一页	Next 
+301		placeholder		
+302		placeholder		
+303	001	303001	所有类型	All Types
+303	002	303002	类型	Type
+303	003	303003	外部钱包转入	From external wallet
+303	004	303004	现金钱包转入	From available assets
+303	005	303005	已补充 待确认	Added (to be confirmed)
+304	001	304001	赎回到现金钱包	Redeem to available assets
+305	001	305001	波动清偿	Liquidation (fluctuation)
+305	002	305002	结算清偿	Liquidation (overdue)
+306	001	306001	成功	Success
+306	002	306002	失败	Failure
+306	003	306003	全部币种	All Currency
+306	004	306004	兑出	Out
+306	005	306005	兑出数量	Amount
+306	006	306006	换入	In
+306	007	306007	换入数量	Amount
+400	001	400001	开始	Start
+400	002	400002	结束	End
+400	003	400003	所有类型	All Types
+400	004	400004	还款	Repayment
+400	005	400005	借款	Loan
+400	006	400006	时间	Time
+400	007	400007	类型	Type
+400	008	400008	金额	Amount
+400	009	400009	查看详情	View Details
+401	001	401001	详情	Details
+401	002	401002	时间	Time
+401	003	401003	期限	Term
+401	004	401004	日利率	Daily Interest Rate
+401	005	401005	当前应还	Amount Due
+401	006	401006	状态	Status
+401	007	401007	流水号	No.
+401	008	401008	借款合同	Loan Agreement
+401	009	401009	点击查看	Click to view
+401	010	401010	未还清	Not paid off
+401	011	401011	万{2}	{0.02%}
+401	012	401012	日	days
+401	013	401013	系统繁忙，请稍后重试	The system is busy, please try again later
+402		placeholder		
+403	001	403001	本金	Principal
+403	002	403002	罚息	Late Fee
+403	003	403003	利息	Interest
+403	004	403004	服务费	Service Fee
+403	005	403005	钱包生成费	Wallet Creation Fee
+403	006	403006	相关订单	Order Number
+404	001	404001	无记录	No history
+600	001	600001	选择订单	Choose Loan
+600	002	600002	已逾期{16}天	{16} day(s) overdue
+600	003	600003	待还金额	Amount due:
+600	004	600004	距离清偿还剩{5}天	Liquidation starts in {5} days
+600	005	600005	立即还款	Repay Now
+600	006	600006	安全等级为低，为了避免发生波动清偿，请立即还 {1024} USD	Security level low, in order to avoid liquidation fluctuations, please repay {1024} USD immediately.
+601	001	601001	清偿中...	Liquidating...
+601	002	601002	到期日	Due date
+602	001	602001	应还	Due
+602	002	602002	数据仅供参考。由于数字货币市价波动剧烈，为了减少用户还款金额受市价波动的影响，用户借款时的本金将用USD计价，利息、服务费等费用的结算都将以USD计价。	In order to reduce the fluctuation of the user's repayment amount, the principal of the user's loan, the settlement of interest, service fees and other expenses will be calculated in USD. 
+602	003	602003	还款币种	Currency
+602	004	602004	还款方式	Repay
+602	005	602005	还款金额	Amount
+602	006	602006	部分还款	Partial
+602	007	602007	全部还清	All
+602	008	602008	钱包余额：	Wallet:
+602	009	602009	提交	Submit
+603	001	603001	当前用LBA还款免利息	Currently no interest if you choose to repay in LBA
+604		placeholder		
+605	001	605001	展开明细	Show details
+606	001	606001	收起明细	Hide details
+607	001	607001	还款金额	Amount due
+608	001	608001	返回（已过期）	Back (Expired)
+609	001	609001	你需要等待2-3分钟来完成还款， 请不要关闭本页面	2-3 min needed for repayment to be completed, do not close this page.
+610	001	610001	还款成功	Repayment successful
+610	002	610002	返回首页	Back to home
+610	003	610003	继续还款	Repay more
+610	004	610004	您可以赎回借款时的抵押物，	You can redeem the collateral of the loan.
+610	005	610005	前往赎回	Redeem?
+611	001	611001	还款失败	Repayment failed
+611	002	611002	很抱歉，由于系统原因还款失败，请重试。 若屡次失败，请发邮件至message@libracredit.io， 我们将尽快修复	Sorry, the payment failed due to system reasons. Please try again. If it fails repeatedly, please send an email to message@libracredit.io. We will fix it as soon as possible.
+611	003	611003	还款	Repay
+612	001	612001	*余额不足，	*Insufficient balance.
+612	002	612002	请充值	Make a deposit
+613	001	613001	*单笔还款下限{10}{USD}	*Min repayment: {10}{USD}
+614	001	614001	*超过最大还款额	*Max repayment exceeded
+615	001	615001	当前页面已过期，请刷新页面重新输入	The current page has expired, please refresh the page and try again
+615	002	615002	刷新	Refresh
+500		placeholder		
+501	001	501001	(已抵押，可借出)	(Credit available)
+502		placeholder		
+503		placeholder		
+504		placeholder		
+505		placeholder		
+506	001	506001	借款协议	Loan Agreement
+506	002	506002	关闭	Close
+507	001	507001	请确认您的借款信息	Please confirm your loan information
+507	002	507002	借出	Loan
+507	003	507003	到期日	Due Date
+507	004	507004	到期应还	Amount Due
+508		placeholder		
+509		placeholder		
+510		placeholder		
+511	001	511001	借款成功	Loan Successful
+512	001	512001	借款失败	Loan Failed
+512	002	512002	很抱歉，由于系统原因借款失败，请重试。 若屡次失败，请发邮件至message@libracredit.io， 我们将尽快修复	Sorry, the loan failed due to system reasons. Please try again. If it fails repeatedly, please send an email to message@libracredit.io. We will fix it as soon as possible.
+513	001	513001	你正在申请一笔借款，请等待该笔借款完成	You are applying for a loan, please wait for the loan to be completed.
+514	001	514001	抵押物不足，	Insufficient collateral.
+514	002	514002	请充值	Add more
+514	003	514003	*平台累计借款上限等值 {12000} USD/下限等值 {50} USD	* Platform loan limit must be between {50} and {12000} USD
+516		placeholder		
+517	001	517001	补充信息	Additional Information
+517	002	517002	请任选一项	Please choose one
+517	003	517003	BTC钱包地址	BTC wallet address
+517	004	517004	BTC钱包公钥	BTC wallet public key
+517	005	517005	请输入BTC钱包地址	Please enter the BTC wallet address
+517	006	517006	请输入至少一笔转出记录的BTC钱包地址	Enter BTC wallet address of transaction record
+518	001	518001	*钱包地址不可用	*Wallet address unusable
+518	002	518002	请输入BTC钱包公钥	Please enter the BTC wallet public key
+519		placeholder		
+520	001	520001	*公钥不正确	*Incorrect public key
+520	002	520002	请输入至少一笔转出记录的BTC钱包公钥	Enter BTC wallet public key of transaction record
+521		placeholder		
+700	001	700001	登录	Log in
+700	002	700002	注册	Sign up
+700	003	700003	欢迎注册	Welcome
+700	004	700004	手机注册	Mobile
+700	005	700005	邮箱注册	Email
+700	006	700006	请输入你的手机号码	Please enter your mobile number
+700	007	700007	请输入短信验证码	Please enter SMS verification code
+700	008	700008	发送验证码	Send
+700	009	700009	请确认你的登录密码	Please confirm your login password
+700	010	700010	我已阅读并同意	I have read and agree to the 
+700	011	700011	注册	Sign up
+700	012	700012	请输入你的登录密码	Please enter your login password
+700	013	700013	《服务协议》	Service Agreement and 
+700	014	700014	《隐私政策》	Privacy Policy
+701	001	701001	请输入你的邮箱	Please enter your email address
+701	002	701002	请输入邮箱验证码	Please enter email verification code
+702	001	702001	*请输入有效的手机号码	*Please enter a valid mobile number
+702	002	702002	{59}s后重发	Resend after {59}s
+702	003	702003	*验证码错误	*Incorrect verification code
+702	004	702004	弱	Weak
+702	005	702005	中	Medium
+702	006	702006	强	Strong
+702	007	702007	*密码为8-20位/密码不能为纯数字	*Password must be 8-20 digits/Password can't be solely numbers
+702	008	702008	*两次密码不一致	*Passwords do not match
+702	009	702009	该号码已被注册	This number has already been registered
+703	001	703001	登录	Log in
+703	002	703002	请输入你的邮箱/手机号	Please enter your email/mobile number
+703	003	703003	请输入登录密码	Please enter your login password
+703	004	703004	注册	Sign up
+703	005	703005	忘记密码？	Forgot password?
+703	006	703006	登录	Log in
+704	001	704001	*请输入有效的邮箱地址/手机号	*Please enter a valid email address / mobile number
+704	002	704002	*账户或密码输入有误，请确认后重新输入	*The account or password is incorrect. Please check and re-enter.
+705	001	705001	请将滑块移至最右端	Move the slider to the far right
+706	001	706001	输入验证码	Enter verification code
+706	002	706002	请输入 {158****7777 }收到的验证码	Please enter the verification code sent to {158****7777}
+706	003	706003	请输入短信验证码	Please enter the SMS verification code
+706	004	706004	{59}s后重发	Resend after {59}s
+706	005	706005	确定	Confirm
+707	001	707001	输入验证码	Enter verification code
+707	002	707002	请输入 谷歌验证器 中的验证码	Please enter the verification code of Google Authenticator. 
+707	003	707003	请输入谷歌验证码	Please enter the Google verification code
+708	001	708001	重置登录密码	Reset login password
+708	002	708002	请输入绑定的邮箱或手机号	Please enter the bound email or mobile number
+709		placeholder		
+710	001	710001	输入验证码	Enter verification code
+710	002	710002	请输入 {158****7777} 收到的验证码	Please enter the verification code sent to {158****7777}
+710	003	710003	若该手机号无法使用，请联系客服	Please contact customer service, if the mobile number cannot be used.
+711	001	711001	验证成功，请设置新密码	The verification is successful, please set a new password.
+712	001	712001	重置登录密码成功	Login password successfully reset
+800	001	800001	绑定您的以太坊地址	Bind your Ethereum address
+800	002	800002	该以太坊地址将用于您的身份验证，与您的账号绑定，一旦提交成功将不能修改，请谨慎填写。	The Ethereum address will be used for your identity verification and will be bound to your account. Once submitted, you will not be able to modify it. Please fill it out carefully.
+800	003	800003	请输入您的以太坊地址	Please enter your Ethereum address
+800	004	800004	实名认证	Identity Information
+800	005	800005	国籍	Nationality
+800	006	800006	姓	Last Name
+800	007	800007	名	First Name
+800	008	800008	证件号	ID No.
+800	009	800009	证件上传	ID Upload
+800	010	800010	请选择	Please Select
+800	011	800011	请填写你的姓氏	Please fill in your last name
+800	012	800012	请填写你的名字	Please fill in your first name
+800	013	800013	请填写你的身份证号	Please fill in your ID number
+800	014	800014	请确保照片内容完整并清晰可见 支持扩展名：JPG（JPEG），BMP，PNG，GIF，TIFF格式，大小不超过5MB	Please make sure the picture is complete and clearly visible   Supported format: JPG (JPEG), BMP, PNG, GIF, TIFF. Size must not exceed 5MB
+800	015	800015	证件正面	Front of ID card/Passport
+800	016	800016	点击或将文件拖拽到这里上传	Click or drag files here to upload
+800	017	800017	证件背面	Back of ID card/Passport
+800	018	800018	点击或将文件拖拽到这里上传	Click or drag files here to upload
+800	019	800019	注意：请不要填写交易所钱包地址！	Notice: Please DO NOT enter your exchange platform wallet address!
+800	020	800020	身份认证	Identity Verification
+800	021	800021	证件类型	ID Type
+800	022	800022	身份证	Identity Card
+801	001	801001	护照	Passport
+801	2	801002	护照上传	Upload Passport
+801	003	801003	证件照片	ID photo
+801	004	801004	请上传证件照片	Please upload your passport photo
+802	001	802001	以太坊地址绑定成功	Ethereum address binding successfully
+802	002	802002	您的以太坊地址	Your Ethereum address
+802	003	802003	实名认证审核中	Verifying your identity information
+802	004	802004	中国	China
+802	005	802005	{陈}	
+802	006	802006	{东}	
+803	001	803001	实名认证审核通过	Passed identity information verification
+804	001	804001	实名认证审核失败，请重新提交	Identity information verification failed, please submit again
+900	001	900001	账号安全	Account Security
+900	002	900002	强烈建议开启2项双重身份验证	It is highly recommended to turn on two-factor authentication for identity verification
+900	003	900003	密码管理	Password Management
+900	004	900004	登录密码	Login Password
+900	005	900005	资金密码	Fund Password
+900	006	900006	用于提币时进行安全验证	Used for security verification when withdrawing currency
+900	007	900007	修改	Modify
+900	008	900008	设置	Settings
+900	009	900009	双重身份验证	Two-Factor Authentication
+900	010	900010	邮箱	Email
+900	011	900011	手机	Mobile
+900	012	900012	谷歌验证码	Google verification code
+900	013	900013	用于提币、找回密码、修改安全设置进行安全验证	Used for security verification when withdrawing coins, recovering passwords and modifying security settings 
+900	014	900014	用于登录、提币、找回密码、修改安全设置进行安全验证	Used for security verification when logging in, withdrawing coins, recovering passwords and modifying security settings
+900	015	900015	绑定	Bind
+900	016	900016	关闭验证	Turn off
+900	017	900017	重置	Reset
+900	018	900018	账号安全等级	Account Security:
+901	00101	901101	修改登录密码 	Modify Login Password
+901	002	901002	原始登录密码	Original Login Password
+901	003	901003	新登录密码	New Login Password
+901	004	901004	确认新登录密码	Confirm New Login Password
+901	005	901005	确认	Confirm
+902	00101	902101	设置资金密码 	Set Fund Password
+902	002	902002	发送验证码	Send
+902	003	902003	资金密码确认	Confirm Fund Password 
+902	004	902004	短信验证码	SMS Verification Code
+902	005	902005	请设置6位数字的资金密码	Please set a 6-digit fund password
+903		placeholder		 
+904	00101	904101	修改资金密码 	Modify Fund Password
+904	002	904002	原资金密码	Original Fund Password
+904	003	904003	新资金密码	New Fund Password
+904	004	904004	确认新资金密码	Confirm New Fund Password
+905	00101	905101	重置资金密码	Reset Fund Password
+905	002	905002	设置新密码	Set New Password
+905	003	905003	确认新密码	Confirm New Password
+906		placeholder		 
+907	00101	907101	绑定邮箱	Bind email
+907	002	907002	邮箱	Email
+907	003	907003	邮箱验证码	Email Verification Code
+908	00101	908101	修改绑定邮箱	Modify bound email
+909	00101	909101	关闭验证	Turn off Verification
+909	002	909002	手机号	Mobile Number
+909	003	909003	手机验证吗	Mobile Verification Code
+910	00101	910101	关闭验证	Turn off verification
+911	00101	911101	修改绑定手机	Modify Bound Mobile Number
+911	002	911002	中国	CN
+912	00101	912101	绑定谷歌验证	Bind Google Authenticator
+912	002	912002	谷歌验证器是一款动态口令工具，工作原理类是短信动态验证。绑定后每30s生成一个动态验证码，验证码可用于登录、提现、修改安全设置等操作的安全等级。	Google Authenticator is a dynamic password tool. The working principle is dynamic verification via SMS. After binding, a dynamic verification code is generated every 30s. The verification code can be used for the security level of operations such as security settings.
+912	003	912003	1 下载谷歌验证器APP	1. Download Google Authenticator APP
+912	004	912004	iOS用户登录App Store搜索“Authenticator”下载。 安卓用户登录应用商店或使用手机浏览器搜索“谷歌验证器”下载。	iOS users log in to the App Store and search for "Authenticator". Android users log in to the Google Play Store or use the mobile browser to search for "Google Authenticator".
+912	005	912005	2 在谷歌验证器中添加秘钥并备份	2. Add a private key and back up in Google Authenticator
+912	006	912006	打开谷歌验证器，扫描下方二维码或手动输入下述秘钥添加验证令牌。 秘钥用于手机更换或遗失时找回谷歌验证器，绑定前请务必将下述秘钥备份保存。	Open Google Authenticator, scan the QR code below or manually enter the following key to add a verification token. The key is used to retrieve the Google Authenticator when the phone is replaced or lost. Be sure to backup the following secure key before binding.
+912	007	912007	秘钥	Private key
+912	008	912008	绑定	Bind
+913	00101	913101	更换绑定谷歌验证	Change Bound Google Authenticator
+1000	001	1000001	抱歉，为了大家更好的使用体验，服务器正在维护升级，给大家带来的不便敬请谅解！	Our server is currently undergoing maintenance to provide you with a better user experience. We are sorry for causing any inconvenience.
+1000	002	1000002	服务器更新时间：	Server upgrade time:
+1000	003	1000003	至	to
+100	001	100001	Local Demand, Global Supply	Local Demand, Global Supply
+100	002	100002	A decentralized lending ecosystem that facilitates open access to credit anywhere and anytime based on the Ethereum blockchain	A decentralized lending ecosystem that facilitates open access to credit anywhere and anytime based on the Ethereum blockchain
+100	003	100003	马上加入	Join Now
+100	004	100004	近期数字货币贷款	Recent Crypto Loans
+100	005	100005	{14}分钟前	{14} min ago
+100	006	100006	Tom White	Tom White
+100	007	100007	Kate Pearson	Kate Pearson
+100	008	100008	Stanley Cooper	Stanley Cooper
+100	009	100009	抵押1BTC，借款5000USDT	Get a loan of 5000 USDT with 1 BTC 
+100	010	100010	抵押3ETH，借出1000USDT	Get a loan of 1000 USDT with 3 ETH
+100	011	100011	抵押2BTC，借出10000USDT	Get a loan of 10000 USDT with 2 ETH
+100	012	100012	我一直很看好BTC，准备长期持有，但是持有BTC无法为我带来收益。通过libra credit，我将BTC抵押，借出了USDT用于投资，获得了丰厚的回报。	I have always been very optimistic about BTC and wanted to hold on to it for a long time. However, just having BTC doesn't bring any benefits. Thanks to Libra Credit I was able to earn quite a nice profit by putting up BTC as collateral and borrow USDT for investment.
+100	013	100013	感谢libra credit，最近想买一部新手机，但是手头上没有这么多法币，只有一些ETH但又不想卖掉。通过libra credit抵押了ETH，很快就完成了借款，操作也很便捷	I recently wanted to buy a new phone, but didn't have much fiat currency at hand. Only some ETH, but I didn’t want to sell it. Thanks to Libra credit I was able to put ETH up for collateral and repay the loan in a short period of time. It was really convenient.
+100	014	100014	用过一些数字货币借贷平台，但libra credit不光支持借贷，还可以在平台内将借出的数字货币兑换成不同的币种，真正做到了一键抵押借贷兑换。	I have tried some digital currency lending platforms before until I discovered Libra Credit. It not only supports lending, but also helps exchange the borrowed digital currency into different currencies on the platform and truly achieves one-click collateral loans.
+100	015	100015	马上开始	Get Started
+100	016	100016	放贷总额	Loan amount
+100	017	100017	抵押物总额	Collateral deposited
+100	018	100018	用户数	Customers served
+100	019	100019	投资者	Investor
+100	020	100020	如何操作？	How it works
+100	021	100021	抵押物	Collateral
+100	022	100022	借款	Loan
