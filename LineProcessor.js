@@ -1,3 +1,4 @@
+const dayjs = require('dayjs');
 const fs = require('fs')
 const path = require('path')
 const promisify = require('util').promisify
@@ -17,11 +18,31 @@ const logJson = (data) => {
 // 输入从文件中读到的行数据
 // 输出需要存到文件中的数字
 class LineProcessor {
-  constructor(dataFileName, lineHandler, outputDir = './output', outputExt = '.js', ) {
-    this.dataFileName = dataFileName
-    this.outputDir = outputDir
-    this.outputExt = outputExt
-    this.lineHandler = lineHandler
+  // 参数
+  // dataFileName, string, 必传,数据文件名
+  // lineHandler,  func(lines), 必传,行处理函数
+  // outputFileName = '', string, 非必传, 文件名(不含后缀), 不传则会按时间自动命名
+  // outputDir = './output', string, 非必传, 输出文件夹
+  // outputExt = '.json', srting, 非必传,文件后缀
+  // outputFileNamePrefix = 'result' , string,非必传, 自动生成结果文件名的前缀
+
+  constructor(config) {
+    let defaultConfig = {
+      outputDir: './output',
+      outputExt: '.json',
+      outputFileName: '',
+      outputFileNamePrefix: 'result',
+
+    }
+    let all = { ...defaultConfig, ...config }
+
+    this.dataFileName = all.dataFileName
+    this.outputDir = all.outputDir
+    this.outputExt = all.outputExt
+    this.lineHandler = all.lineHandler
+    this.outputFileName = all.outputFileName
+    this.outputFileNamePrefix = all.outputFileNamePrefix
+
 
     // this.formatLine = this.formatLine.bind(this)
     this.saveToFile = this.saveToFile.bind(this)
@@ -83,14 +104,20 @@ class LineProcessor {
   }
 
   getOutputFileName() {
-    let now = new Date().getTime()
-    let fileName = 'result' + now + this.outputExt
+    let fileName = ''
+    if (this.outputFileName) {
+      fileName = this.outputFileName + this.outputExt
+    } else {
+      let now = dayjs(new Date()).format('_YYYYMMDD_HHmmss_SSS')
+      fileName = this.outputFileNamePrefix + now + this.outputExt
+    }
+    // let now = new Date().getTime()
+
     let fullName = path.join(this.outputDir, fileName)
     return fullName
   }
 
   saveToFile(data) {
-
     //===============================
     if (!fs.existsSync(this.outputDir)) {
       fs.mkdirSync(this.outputDir)
